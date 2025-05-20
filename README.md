@@ -10,3 +10,24 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🚀 Features
+Search for movies by name
+
+Display movie list with posters and titles
+
+View detailed information for each movie
+
+Responsive design with Tailwind CSS
+
+Preloader while fetching data
+
+🛠️ Technologies Used
+React
+
+React Router DOM
+
+Axios
+
+Tailwind CSS
+
+OMDb API
